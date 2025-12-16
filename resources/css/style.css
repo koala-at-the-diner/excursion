@@ -1,0 +1,54 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    text-align: center;
+    background-color: black;
+}
+
+header p {
+    font-size: 50px;
+    color: white;
+}
+
+a {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+video {
+    display: block;
+    width: 30%;
+    margin: 20px auto;
+}
+
+.promotion {
+    display: block;
+}
+
+.promotion #first {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+.promotion #second {
+    font-size: 21px;
+    color: gray;
+}
+
+footer img {
+    display: block;
+    width: 4%;
+    margin: 20px auto;
+}
+
+footer p {
+    font-size: 42px;
+    color: white;
+}
+
+#copyright {
+    text-align: right;
+    color: gray;
+}
+
